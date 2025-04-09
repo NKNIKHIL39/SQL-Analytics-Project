@@ -1,6 +1,7 @@
 # SQL-Analytics-Project
 
 What to Highlight in This SQL Analytics Project
+
 ✅ 1. Real Business Use Cases
 Position the project as solving actual retail business problems:
 
