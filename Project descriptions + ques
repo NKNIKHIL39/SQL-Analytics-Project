@@ -1,0 +1,127 @@
+Beginner (Easy) – Filtering, Aggregations, Basics
+List all unique ship modes.
+
+Count total orders in the dataset.
+
+Show total sales by region.
+
+Get top 5 cities by total sales.
+
+What is the average discount per category?
+
+Find orders placed in 2020 only.
+
+List products with sales above $500.
+
+Get total profit by sub-category.
+
+Count customers per region.
+
+Show distinct product categories.
+
+🔹 Intermediate – Joins, Subqueries, Grouping
+Show all orders that were returned (JOIN with Returns).
+
+Count how many returns happened per region.
+
+Show top 3 states with the most returns.
+
+Identify customers with more than 1 return.
+
+Show orders where profit is negative.
+
+List top 5 customers by total sales.
+
+Which products are returned most often?
+
+Subquery: What’s the total profit of orders that had returns?
+
+Get the order with the highest sales.
+
+Find orders with max quantity per category.
+
+🔹 Upper Intermediate – Nested Queries, Aggregate Conditions
+Subquery: List orders that are above average sales.
+
+Which product sub-categories have an average discount above 0.3?
+
+Subquery: Which cities had more returns than average?
+
+Find categories with the highest total discount given.
+
+Return reasons sorted by frequency.
+
+What percent of orders were returned?
+
+Find products that were sold but never returned.
+
+Compare average profit for returned vs. non-returned orders.
+
+Show orders that had quantity > 3 and discount > 0.2.
+
+Which segments are least profitable?
+
+🔹 Advanced – CTEs, Window Functions, Ranking
+Use a CTE to get top-selling product per region.
+
+Window Function: Rank orders by profit within each category.
+
+CTE: Find customers whose total sales > average customer sales.
+
+CTE + Join: Get average sales for returned orders vs. non-returned.
+
+Dense rank customers based on total profit.
+
+Use ROW_NUMBER to find the most recent order in each region.
+
+CTE: List products returned more than 3 times.
+
+Running total of sales per state.
+
+Monthly sales trend using window functions.
+
+Percentage contribution of each state to total sales.
+
+🔹 Expert – Multi-step CTEs, Complex Subqueries, Trends
+CTE: Calculate return rate by product and rank them.
+
+Compare quarterly sales growth by category.
+
+Top 5 customers per region based on sales using window function.
+
+YOY (Year-over-Year) sales comparison.
+
+Identify orders with the highest profit margin (profit/sales).
+
+Top 3 most returned products by frequency and revenue loss.
+
+Lead/Lag: Compare each month’s sales with previous month.
+
+Identify seasonal trends in returns.
+
+Find customers who increased their spending year over year.
+
+Create a profitability score combining discount, sales, and return status.
+
+✅ Project Outline
+📌 Project Title:
+“Sales and Return Analytics for a Superstore”
+
+🎯 Objectives:
+Identify sales trends, profit drivers, and return patterns.
+
+Evaluate performance by region, category, and customer.
+
+Practice SQL features like joins, window functions, and CTEs.
+
+🔍 Findings:
+Top-performing products and regions.
+
+Customers with high return frequency.
+
+Products that contribute to most losses.
+
+Trends in discounts and their impact on profit.
+
+📘 Conclusion:
+This project demonstrates how SQL can be used to uncover insights from retail sales data. By combining joins, window functions, and CTEs, we can evaluate performance, optimize return policies, and improve customer targeting.
